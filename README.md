@@ -36,11 +36,10 @@ Reminder: I don't care about the design, i've only made the backend.
 
 # Requirements
 - PHP >= 7.0
-- MySQL / PostgreSQL (i think db.sql it's in Postgre's format)
+- MySQL
 - Friendly urls/mod rewrite
-- gruntjs
 
-# Nginx vhost setup example
+# Nginx setup example
 ```
 server {
     listen   80;
